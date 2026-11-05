@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "version": "1.0.5",
+  "notes": "优化资源下载与软件更新，增加备用下载来源。\n正版账号保持原有展示方式。\n内核组件随客户端统一升级，不再单独联网更新。\n",
+  "lite": {
+    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.0.5/d3307122ff035d423cf916219397de148916b85b3f553058a1ab65325585f27f-AtomicSteam-1.0.5-lite.zip",
+    "fallback": "https://files.291018.xyz/releases/1.0.5/AtomicSteam-1.0.5-lite.zip",
+    "sha256": "d3307122ff035d423cf916219397de148916b85b3f553058a1ab65325585f27f",
+    "bytes": 23543517
+  }
+}
