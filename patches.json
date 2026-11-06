@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
+  "revision": 4,
   "patches": [
     {
       "appId": 33230,
       "name": "刺客信条 2",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【33230】刺客信条 2.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【33230】刺客信条2.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -33,28 +33,28 @@
     {
       "appId": 243470,
       "name": "看门狗 1",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【243470】看门狗 1.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【243470】看门狗1.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
     {
       "appId": 271590,
       "name": "GTAV 传承版",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【271590】GTAV 传承版.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【271590】GTAV传承版.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
     {
       "appId": 277590,
       "name": "刺客信条 4 自由呐喊",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【277590】刺客信条 4 自由呐喊.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【277590】刺客信条4自由呐喊.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
     {
       "appId": 287700,
       "name": "合金装备 5 幻痛",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【287700】合金装备 5 幻痛.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【287700】合金装备5幻痛.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -89,7 +89,7 @@
     {
       "appId": 447040,
       "name": "看门狗 2",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【447040】看门狗 2.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【447040】看门狗2.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -124,7 +124,7 @@
     {
       "appId": 911400,
       "name": "刺客信条 3",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【911400】刺客信条 3.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【911400】刺客信条3.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -145,7 +145,7 @@
     {
       "appId": 1174180,
       "name": "荒野大镖客 2",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1174180】荒野大镖客 2.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1174180】荒野大镖客2.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -173,7 +173,7 @@
     {
       "appId": 1623730,
       "name": "幻兽帕鲁1.0.5.102999版本联机补丁",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1623730】幻兽帕鲁1.0.5.102999版本联机补丁.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1623730】幻兽帕鲁.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -187,14 +187,14 @@
     {
       "appId": 1971870,
       "name": "真人快打 1",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1971870】真人快打 1.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【1971870】真人快打1.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
     {
       "appId": 2161700,
       "name": "女神异闻录 3reload",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2161700】女神异闻录 3reload.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2161700】女神异闻录3reload.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -215,7 +215,7 @@
     {
       "appId": 2239550,
       "name": "看门狗 3 军团",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2239550】看门狗 3 军团.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2239550】看门狗3军团.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -236,7 +236,7 @@
     {
       "appId": 2668510,
       "name": "荒野大镖客救赎 1",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2668510】荒野大镖客救赎 1.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【2668510】荒野大镖客救赎1.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -271,7 +271,7 @@
     {
       "appId": 3240220,
       "name": "GTAV 增强版",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【3240220】GTAV 增强版.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【3240220】GTAV增强版.zip",
       "targetRelativePath": ".",
       "enabled": true
     },
@@ -299,7 +299,7 @@
     {
       "appId": 3751950,
       "name": "刺客信条：黑旗 记忆重量",
-      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【3751950】刺客信条：黑旗 记忆重量.zip",
+      "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/%E8%A1%A5%E4%B8%81/%E3%80%903751950%E3%80%91%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%EF%BC%9A%E9%BB%91%E6%97%97%20%E8%AE%B0%E5%BF%86%E9%87%8D%E7%BD%AE.zi",
       "targetRelativePath": ".",
       "enabled": true
     },
