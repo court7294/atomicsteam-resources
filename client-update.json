@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.0.8",
-  "notes": "优化资源下载与软件更新，增加备用下载来源。\n正版账号保持原有展示方式。修改了教程。\nD加密一键授权时自动防止掉授权。已入库D加密游戏如果不想再授权一次建议手动固定一下。\n",
+  "version": "1.0.9",
+  "notes": "优化资源下载与软件更新，增加备用下载来源。\n正版账号保持原有展示方式。修改了教程。\nD加密一键授权时自动防止掉授权。已入库D加密游戏如果不想再授权一次建议手动固定一下。\n修改了一些小BUG\n",
   "lite": {
-    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.0.8/29df5ddeef025ca0624b66110d0ebfec94bfb8c076980dedbe49131a42181cbf-AtomicSteam-1.0.8-lite.zip",
-    "fallback": "https://files.291018.xyz/releases/1.0.8/AtomicSteam-1.0.8-lite.zip",
-    "sha256": "29df5ddeef025ca0624b66110d0ebfec94bfb8c076980dedbe49131a42181cbf",
-    "bytes": 23557263
+    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.0.9/cd1e17a7de8b8d629335673f5b6c996056d5bd9b72629c4fa026434f168fc60d-AtomicSteam-1.0.9-lite.zip",
+    "fallback": "https://files.291018.xyz/releases/1.0.9/AtomicSteam-1.0.9-lite.zip",
+    "sha256": "cd1e17a7de8b8d629335673f5b6c996056d5bd9b72629c4fa026434f168fc60d",
+    "bytes": 23557281
   }
 }
