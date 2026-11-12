@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.1.1",
-  "notes": "重大更新必更必更：\n修改了家庭共享相关的部份；\n增加一键补丁下载线路，适配国内更多样的网络环境。\n",
+  "version": "1.1.2",
+  "notes": "增加了新游推荐界面；\n修复了我之前以为是DLC也有D加密的授权报错；\n更改了初始化逻辑与更新逻辑。",
   "lite": {
-    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.1/6476927fcb000887c9d6fc83be1e512fa6a5ebc069e27ebd392488599beb25ca-AtomicSteam-1.1.1-lite.zip",
-    "fallback": "https://files.291018.xyz/releases/1.1.1/AtomicSteam-1.1.1-lite.zip",
-    "sha256": "6476927fcb000887c9d6fc83be1e512fa6a5ebc069e27ebd392488599beb25ca",
-    "bytes": 23600024
+    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.2/549f7458b2adf6341414282ecd0c31746bb5bb63b1215d5dad19d4c64fd4c3a8-AtomicSteam-1.1.2-lite.zip",
+    "fallback": "https://files.291018.xyz/releases/1.1.2/AtomicSteam-1.1.2-lite.zip",
+    "sha256": "549f7458b2adf6341414282ecd0c31746bb5bb63b1215d5dad19d4c64fd4c3a8",
+    "bytes": 23616279
   }
 }
