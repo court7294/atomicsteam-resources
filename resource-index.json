@@ -80,10 +80,10 @@
       "bytes": 394
     },
     "lua/374320.lua": {
-      "primary": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/ffcf7a476675601c1dda4ceec9b80501b037e008a5500c5628c0dbb437bdef87/374320.lua",
-      "fallback": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/ffcf7a476675601c1dda4ceec9b80501b037e008a5500c5628c0dbb437bdef87/374320.lua",
-      "sha256": "ffcf7a476675601c1dda4ceec9b80501b037e008a5500c5628c0dbb437bdef87",
-      "bytes": 751
+      "primary": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/17f4080bd12db782f6b12dfa72cea802295d4c491aff8b645b6e6dab1474b441/374320.lua",
+      "fallback": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/17f4080bd12db782f6b12dfa72cea802295d4c491aff8b645b6e6dab1474b441/374320.lua",
+      "sha256": "17f4080bd12db782f6b12dfa72cea802295d4c491aff8b645b6e6dab1474b441",
+      "bytes": 1648
     },
     "lua/3751260.lua": {
       "primary": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/398138271987b02f09d01d46d4e1d168015446b8467d9018e075b208ede5069f/3751260.lua",
