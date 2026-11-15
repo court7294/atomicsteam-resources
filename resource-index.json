@@ -156,6 +156,12 @@
       "fallback": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/8536cef47bc738b5df45592ac3ade89895e1e2f507348d66d326c68afbe22857/271590.lua",
       "sha256": "8536cef47bc738b5df45592ac3ade89895e1e2f507348d66d326c68afbe22857",
       "bytes": 926
+    },
+    "lua/4563590.lua": {
+      "primary": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/9749a79dba1b1f792de7c6cea970a3012bb9135bf8784f35e54523b36c8397fd/4563590.lua",
+      "fallback": "https://raw.githubusercontent.com/court7294/atomicsteam-resources/main/objects/9749a79dba1b1f792de7c6cea970a3012bb9135bf8784f35e54523b36c8397fd/4563590.lua",
+      "sha256": "9749a79dba1b1f792de7c6cea970a3012bb9135bf8784f35e54523b36c8397fd",
+      "bytes": 791
     }
   }
 }
