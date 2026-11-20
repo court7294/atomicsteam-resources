@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.1.4",
-  "notes": "增加回退STEAM版本的功能；\n每日领积分，凭积分一键入库，永久免费试玩，包括影之刃等D加密游戏也可以用积分收取授权验证来进行非虚拟机的游戏；\n增加了伪云存档，已激活的多设备用户的云存档及云解锁预计月底推出；\n更改了初始化逻辑与更新逻辑。",
+  "version": "1.1.5",
+  "notes": "优化回退STEAM版本的功能；\n区分一键入库和仅解锁DLC；\n增加了D加密授权新游：生化9、红色沙漠增强版\n(由于受账号数量限制，一天可授权名额有限但再次授权不扣积分)",
   "lite": {
-    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.4/e6f3ae9cceb9292a393f37a2756113d4cf7f3e53ba533c7c8b815489b33ebad9-AtomicSteam-1.1.4-lite.zip",
-    "fallback": "https://files.291018.xyz/releases/1.1.4/AtomicSteam-1.1.4-lite.zip",
-    "sha256": "e6f3ae9cceb9292a393f37a2756113d4cf7f3e53ba533c7c8b815489b33ebad9",
-    "bytes": 28576143
+    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.5/943384c2c37e685f2c44c539d1ed5773c28c224626635363d27ea96a81c34970-AtomicSteam-1.1.5-lite.zip",
+    "fallback": "https://files.291018.xyz/releases/1.1.5/AtomicSteam-1.1.5-lite.zip",
+    "sha256": "943384c2c37e685f2c44c539d1ed5773c28c224626635363d27ea96a81c34970",
+    "bytes": 28580917
   }
 }
