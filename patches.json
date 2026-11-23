@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
+  "revision": 5,
   "patches": [
     {
       "appId": 33230,
@@ -309,6 +309,13 @@
       "downloadUrl": "https://pub-e375613d2e9840d98ceaf18a709188c8.r2.dev/补丁/【3764200】生化危机安魂曲.zip",
       "targetRelativePath": ".",
       "enabled": true
+    },
+    {
+      "appId": 4115450,
+      "targetRelativePath": ".",
+      "enabled": true,
+      "name": "影之刃零",
+      "downloadUrl": "https://files.291018.xyz/%E8%A1%A5%E4%B8%81/4115450/c24ea4059e2b674c5b7200ed84654c5d80712ffa1987c7a1af2999d126c8423e.zip"
     }
   ]
 }
