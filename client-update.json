@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.1.5",
-  "notes": "优化回退STEAM版本的功能；\n区分一键入库和仅解锁DLC；\n增加了D加密授权新游：生化9、红色沙漠增强版\n(由于受账号数量限制，一天可授权名额有限但再次授权不扣积分)",
+  "version": "1.1.6",
+  "notes": "优化搜索功能，不开代理应该也搜得出来了；\n增加了D加密授权新游：生化9、红色沙漠增强版；\n(由于受账号数量限制，一天可授权名额有限但再次授权不扣积分)\n提醒：网盘积分任务不用在线解压，直接下载下来就可以看验证码了",
   "lite": {
-    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.5/943384c2c37e685f2c44c539d1ed5773c28c224626635363d27ea96a81c34970-AtomicSteam-1.1.5-lite.zip",
-    "fallback": "https://files.291018.xyz/releases/1.1.5/AtomicSteam-1.1.5-lite.zip",
-    "sha256": "943384c2c37e685f2c44c539d1ed5773c28c224626635363d27ea96a81c34970",
-    "bytes": 28580917
+    "primary": "https://github.com/court7294/atomicsteam-resources/releases/download/v1.1.6/76895312ad724317633209763e341bb679b6e4e9fd375dae5b553d0d9fd6c9bf-AtomicSteam-1.1.6-lite.zip",
+    "fallback": "https://files.291018.xyz/releases/1.1.6/AtomicSteam-1.1.6-lite.zip",
+    "sha256": "76895312ad724317633209763e341bb679b6e4e9fd375dae5b553d0d9fd6c9bf",
+    "bytes": 28584530
   }
 }
