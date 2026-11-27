@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
+  "revision": 6,
   "patches": [
     {
       "appId": 33230,
@@ -316,6 +316,13 @@
       "enabled": true,
       "name": "影之刃零",
       "downloadUrl": "https://files.291018.xyz/%E8%A1%A5%E4%B8%81/4115450/c24ea4059e2b674c5b7200ed84654c5d80712ffa1987c7a1af2999d126c8423e.zip"
+    },
+    {
+      "appId": 2698940,
+      "targetRelativePath": ".",
+      "enabled": true,
+      "name": "飙酷车神",
+      "downloadUrl": "https://files.291018.xyz/%E8%A1%A5%E4%B8%81/2698940/5039e3ab03fd21eb13be8b77f39c35b85a40b3fad6b1705565d9bdf970208415.zip"
     }
   ]
 }
